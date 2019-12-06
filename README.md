@@ -7,5 +7,7 @@ Compile in arduino IDE for nodemcu lua v3
 
 Instead of my IR codes, you can put your own.
 
+IR led must be connected to pin D5.
+
 
 
